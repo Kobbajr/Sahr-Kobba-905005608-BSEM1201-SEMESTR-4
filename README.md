@@ -29,8 +29,8 @@ HTML5
  Project Structure
 project-folder/
 │
-├── index.html   # Main webpage file
-└── README.md    # Project documentation
+├── index.html   Main webpage file
+└── README.md    Project documentation
 
 How to Run the Project
 Download or clone the repository
